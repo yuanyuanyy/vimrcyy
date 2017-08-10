@@ -1,0 +1,13 @@
+" let g:spf13_bundle_groups=['general', 'neocomplete', 'programming', 'php', 'ruby', 'python', 'javascript', 'html', 'misc',]
+let g:spf13_bundle_groups=['general', 'youcompleteme', 'programming', 'php', 'ruby', 'python', 'javascript', 'html', 'misc',]
+let g:airline_powerline_fonts = 1
+""coding {{{
+"if has('vim_staring')
+"    if &encoding != 'utf-8'
+"        let &termencoding = &encoding
+"    endif
+"    set encoding = utf-8
+"    set fileencoding = utf-8
+"    set fileencodings = ucs-bom,utf-8,default,cp936,latin1
+"endif
+""}}} end coding set
